@@ -1,0 +1,60 @@
+{
+  "PRODUCT_ID_HERE": {
+    "fallback": "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+    "combinations": {
+
+      "natural|gr. 2 vinyl modena graphite": "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-1-.jpg?t=1772072418",
+      "natural|gr. 2 vinyl modena titan":    "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-2-.jpg?t=1772072419",
+      "natural|gr. 2 vinyl modena ink":      "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-2-.jpg?t=1772072419",
+
+      "medium|gr. 2 vinyl modena graphite":  "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-3-.jpg?t=1772072421",
+      "medium|gr. 2 vinyl modena titan":     "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-3-.jpg?t=1772072421",
+      "medium|gr. 2 vinyl modena ink":       "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+
+      "cherry|gr. 2 vinyl modena graphite":  "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+      "cherry|gr. 2 vinyl modena titan":     "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-3-.jpg?t=1772072421",
+      "cherry|gr. 2 vinyl modena ink":       "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-3-.jpg?t=1772072421",
+
+      "mahogany|gr. 2 vinyl modena graphite": "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+      "mahogany|gr. 2 vinyl modena titan":    "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+      "mahogany|gr. 2 vinyl modena ink":      "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-2-.jpg?t=1772072419",
+
+      "walnut|gr. 2 vinyl modena graphite":   "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-2-.jpg?t=1772072419",
+      "walnut|gr. 2 vinyl modena titan":      "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+      "walnut|gr. 2 vinyl modena ink":        "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+
+      "riftwood-walnut|gr. 2 vinyl modena graphite": "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-3-.jpg?t=1772072421",
+      "riftwood-walnut|gr. 2 vinyl modena titan":    "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-2-.jpg?t=1772072419",
+      "riftwood-walnut|gr. 2 vinyl modena ink":      "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-1-.jpg?t=1772072418",
+
+      "mocha|gr. 2 vinyl modena graphite":    "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-1-.jpg?t=1772072418",
+      "mocha|gr. 2 vinyl modena titan":       "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-1-.jpg?t=1772072418",
+      "mocha|gr. 2 vinyl modena ink":         "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+
+      "pewter|gr. 2 vinyl modena graphite":   "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+      "pewter|gr. 2 vinyl modena titan":      "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-1-.jpg?t=1772072418",
+      "pewter|gr. 2 vinyl modena ink":        "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+
+      "black|gr. 2 vinyl modena graphite":    "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416",
+      "black|gr. 2 vinyl modena titan":       "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101-1-.jpg?t=1772072418",
+      "black|gr. 2 vinyl modena ink":         "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/guest-chair-lw1101.jpg?t=1772072416"
+    }
+  },
+
+  "SECOND_PRODUCT_ID": {
+    "fallback": "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/YOUR-FALLBACK-IMAGE.jpg",
+    "combinations": {
+      "natural|gr. 2 vinyl modena graphite": "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/YOUR-IMAGE.jpg",
+      "walnut|gr. 2 vinyl modena ink":       "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/YOUR-IMAGE.jpg"
+    }
+  },
+
+  "THIRD_PRODUCT_ID": {
+    "fallback": "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/YOUR-FALLBACK-IMAGE.jpg",
+    "combinations": {
+      "black|gr. 2 vinyl modena graphite":   "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/YOUR-IMAGE.jpg",
+      "black|gr. 2 vinyl modena titan":      "https://cdn11.bigcommerce.com/s-it08irk11h/images/stencil/original/image-manager/YOUR-IMAGE.jpg"
+    }
+  }
+
+}
